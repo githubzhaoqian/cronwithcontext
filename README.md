@@ -6,7 +6,7 @@ CronWithContext 由github.com/robfig/cron/v3@v3.0.1 扩展而来，对job增加�
 
 To download the specific tagged release, run:
 
-	go get github.com/githubzhaoqian/cronwithcontext/v3@v3.0.2
+	go get github.com/githubzhaoqian/cronwithcontext/v3@v3.0.01
 
 Import it in your program as:
 
