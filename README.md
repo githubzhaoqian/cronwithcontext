@@ -1,12 +1,12 @@
 # CronWithContext
 
-CronWithContext By github.com/robfig/cron/v3@v3.0.0 extension of job added custom context, better implementation of the middleware.!
+CronWithContext By github.com/robfig/cron/v3@v3.0.1 extension of job added custom context, better implementation of the middleware.!
 
-CronWithContext 由github.com/robfig/cron/v3@v3.0.0 扩展而来，对job增加了自定义context,能更好的实现中间件。
+CronWithContext 由github.com/robfig/cron/v3@v3.0.1 扩展而来，对job增加了自定义context,能更好的实现中间件。
 
 To download the specific tagged release, run:
 
-	go get github.com/githubuzhaoqian/cronwithcontext/v3@v3.0.0
+	go get github.com/githubuzhaoqian/cronwithcontext/v3@v3.0.1
 
 Import it in your program as:
 
